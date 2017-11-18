@@ -1,0 +1,5 @@
+[run]
+include = icecreamratings_projcet/*
+omit = *migrations*, *tests*
+plugins =
+    django_coverage_plugin
